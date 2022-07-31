@@ -1,6 +1,6 @@
 This is a redux file manager system which maintains a good directory structure of your reducers and makes all dynamic changes to your files in redux folder !
 
-As a result yu can focus on writing your reducers and avoid silly and common error!
+As a result you can focus on writing your reducers and avoid silly and common error!
 
 USAGE:
 1)Create a folder called redux
